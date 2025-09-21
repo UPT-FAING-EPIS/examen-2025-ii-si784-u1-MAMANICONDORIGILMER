@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rDbTgvlTtxIei3ozNeT0KaXdr1qbyjhfYY66AMwJZ1g=",
+  "Source": "MusicPlatformAPI",
+  "BasePath": "_content/MusicPlatformAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
